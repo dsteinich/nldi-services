@@ -1,5 +1,6 @@
 # NLDI REST (like) Services
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/820b477108ed4a4caa155f9119807b50)](https://app.codacy.com/app/usgs_wma_dev/nldi-services?utm_source=github.com&utm_medium=referral&utm_content=dsteinich/nldi-services&utm_campaign=Badge_Grade_Settings)
 [![Build Status](https://travis-ci.org/ACWI-SSWD/nldi-services.svg?branch=master)](https://travis-ci.org/ACWI-SSWD/nldi-services)
 
 ## Public API
